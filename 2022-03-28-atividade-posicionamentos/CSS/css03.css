@@ -1,0 +1,37 @@
+body{
+    background-color: grey;
+    padding: 0;
+    margin: 0;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.um, .dois {
+    background-color: black ;
+    color: white;
+    width: 95%;
+    margin: 0 auto;  
+    padding: 15px;      
+}
+
+.um{
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+.dois{
+    border: 6px solid brown;
+    margin-top: 50px;
+    max-height: 280px;
+    overflow-y: scroll;
+    text-transform: lowercase;
+}
+
+.um p{
+    text-transform: uppercase;
+}

@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(99, 99, 99);
+}
+
+.um, .dois, .tres, .quatro, .cinco, .seis, .sete, .oito, .nove, .dez, .onze, .doze {
+    width:150px;
+    height:150px;
+    background-color: black;
+        
+}
+
+.um{    
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.dois{    
+    float:left;
+    margin-right: 10px;
+}
+
+.tres{
+    float: left;
+    margin-right: 10px;
+}
+
+.quatro{
+    clear: both;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.cinco{
+    float: left;
+}
+
+.seis{
+    clear: both;
+}
+
+.sete{
+    float:right;    
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.oito{
+    float: right;
+    clear: both;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
+
+.nove{
+    float: right;    
+    margin-left: 10px;
+
+}
+
+.dez{
+    float: right;
+    clear: both;
+    margin-left: 10px;
+
+}
+
+.onze{
+    float: right;
+    margin-left: 10px;
+
+
+}
+
+.doze{
+    float:right;
+    
+}
+
